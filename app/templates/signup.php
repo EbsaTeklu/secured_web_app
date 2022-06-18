@@ -58,7 +58,7 @@
                             <input type="submit" value="Log In">
                         </p>
                         <p>
-                            <a href="">Forgot password?</a>
+                            <a href="./user/dashboard.php">Forgot password?</a>
                         </p>
 
                     </form>

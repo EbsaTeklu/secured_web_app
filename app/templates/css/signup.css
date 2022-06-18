@@ -54,7 +54,7 @@ body{
 }
 .login .col-left{
     width: 40%;
-    background: #2aa15f;
+    background: rgb(39, 51, 51);
 }
 .login .col-right{
     padding: 10px 30px;
@@ -139,7 +139,7 @@ body{
     padding-top: 3px;
 }
 .login .login-form p a{
-    color: #2aa15f;
+    color: rgb(39, 51, 51);
     font-size: 14px;
     text-decoration: none;
 }
@@ -182,19 +182,19 @@ body{
     display: inline-block;
     width: 100%;
     margin-top: 5px;
-    color: #2aa15f;
+    color: rgb(39, 51, 51);
     font-size: 16px;
     letter-spacing: 1px;
     cursor: pointer;
     background: transparent;
-    border: 1px solid #2aa15f;
+    border: 1px solid rgb(39, 51, 51);
     border-radius: 30px;
-    box-shadow: inset 0 0 0 0 #2aa15f;
+    box-shadow: inset 0 0 0 0 rgb(39, 51, 51);
     transition: 0.0s;
 }
 .login .login-form button:hover,
 .login .login-form input[type=submit]:hover{
     color: #ffffff;
     /* background-color: #2aa15f; */
-    box-shadow: inset 500px 0 0 0 #2aa15f;
+    box-shadow: inset 500px 0 0 0 rgb(39, 51, 51);
 }
