@@ -10,7 +10,7 @@ private $db;
 public function __construct(){
 $this->engine = 'mysql';
 $this->host = '127.0.0.1';
-$this->database = 'events';
+$this->database = 'secure_web_app';
 $this->user = 'root';
 $this->pass = '';
 $this->port = '';
