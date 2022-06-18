@@ -13,12 +13,27 @@
      </div>
      <ul class="nav-links">
        <div class="menu">
-         <li><a href="/">Users</a></li>
+         <li><a href="view_users.php">Users</a></li>
          <li><a href="/">Feedback</a></li>
          <li><a href="/">logout</a></li>
        </div>
      </ul>
    </nav>
+   <div class="body-container">
+       <div class="grid-item"><?php require "card.php"; ?></div>
+       <div class="grid-item"><?php require "card.php"; ?></div>
+       <div class="grid-item"><?php require "card.php"; ?></div>
+       <div class="grid-item"><?php require "card.php"; ?></div>
+       <div class="grid-item"><?php require "card.php"; ?></div>
+       <div class="grid-item"><?php require "card.php"; ?></div>
+       <div class="grid-item"><?php require "card.php"; ?></div>
+       <div class="grid-item"><?php require "card.php"; ?></div>
+       <div class="grid-item"><?php require "card.php"; ?></div>
+       <div class="grid-item"><?php require "card.php"; ?></div>
+       <div class="grid-item"><?php require "card.php"; ?></div>
+       <div class="grid-item"><?php require "card.php"; ?></div>
+      
+     </div>
     <footer>
     <div class="footer-content">
     <!--add all information -->
